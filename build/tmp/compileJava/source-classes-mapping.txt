@@ -1,0 +1,6 @@
+kata/codewars/Multiples.java
+ kata.codewars.Multiples
+kata/codewars/WhoLikesIt.java
+ kata.codewars.WhoLikesIt
+kata/codewars/DescendingOrder.java
+ kata.codewars.DescendingOrder

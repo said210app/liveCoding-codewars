@@ -10,6 +10,10 @@ public class PlayPassTest {
     public void test1() {
         assertEquals("!!!vPz fWpM J", PlayPass.playPass("I LOVE YOU!!!", 1));
     }
+@Test
+    public void test2() {
+        assertEquals("4897", PlayPass.playPass("2015", 1));
+    }
 
     @Test
     public void test4() {

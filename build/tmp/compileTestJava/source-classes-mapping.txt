@@ -1,6 +1,0 @@
-kata/codewars/MultiplesTest.java
- kata.codewars.MultiplesTest
-kata/codewars/WhoLikesItTest.java
- kata.codewars.WhoLikesItTest
-kata/codewars/DescendingOrderTest.java
- kata.codewars.DescendingOrderTest
